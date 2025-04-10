@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Explain the concept of option pricing in finance.",
+    "response": "Option pricing involves using mathematical models such as the Black-Scholes model to determine the premium of options."
+  },
+  {
+    "prompt": "What is a bond yield?",
+    "response": "Bond yield represents the return an investor realizes on a bond."
+  }
+]
