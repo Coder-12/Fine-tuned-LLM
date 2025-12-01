@@ -375,7 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [@Coder-12](https://github.com/Coder-12)
 - LinkedIn: [linkedin.com/in/akleshmishra](https://linkedin.com/in/akleshmishra)
-- Email: [akleshmishra7@gmail.com] (akleshmishra7@gmail.com)
+- Email: [akleshmishra7@gmail.com](akleshmishra7@gmail.com)
 
 ---
 
