@@ -43,8 +43,6 @@
 - ✅ **Comprehensive Evaluation** — MMLU, MedQA, PubMedQA, medication safety benchmarks
 - ✅ **Dataset Engineering** — Semantic filtering, quality scoring, clinical curation
 
-> **Portfolio Impact:** This repository showcases FAANG-grade LLM engineering, production MLOps, and medical domain expertise—perfect for ML Engineer, Research Engineer, and Applied Scientist roles.
-
 ---
 
 ## 📊 Performance Metrics
